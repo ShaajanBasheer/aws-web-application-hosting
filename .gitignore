@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.*
+tfplan
+
+# AWS CLI installation files
+aws/
+
+# Terraform crash logs
+crash.log
+crash.*.log
+
+# AWS CLI archive
+awscliv2.zip
